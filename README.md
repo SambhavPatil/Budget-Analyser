@@ -27,7 +27,7 @@ The "Budget Analyser," is a C++ program that allows users to manage their monthl
 4. The program will generate a report on the console and save the results to a text file named "results.txt" in the same directory.
 
 ## File Description
-- `budget_analyser.cpp`: The C++ source code for the Expense Management System.
+- `main.cpp`: The C++ source code for the Expense Management System.
 - `budget.bin`: Binary file to store budget information.
 - `expenses.bin`: Binary file to store expense information.
 - `results.txt`: Text file where the program saves the budget analysis results.
