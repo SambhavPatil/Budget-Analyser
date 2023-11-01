@@ -1,7 +1,5 @@
 # Budget-Analyser
 
-# Budget Analyser
-
 ## Overview
 The "Budget Analyser," is a C++ program that allows users to manage their monthly budgets and expenses. This program helps users track their spending across various categories and provides a report showing the difference between their budgeted and actual expenses.
 
